@@ -1,0 +1,14 @@
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\bin\Debug\net6.0\Palindrome.exe
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\bin\Debug\net6.0\Palindrome.dll
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.dll
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+C:\Users\yamam\Desktop\3BIN2023\DOTNET\Cours2\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
