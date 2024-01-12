@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semaine 4 - LegumesDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df3e5dd0d9869237c76e6596532f7278462e09f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semaine 4 - LegumesDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semaine 4 - LegumesDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
